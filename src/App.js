@@ -4,7 +4,7 @@ import React from "react";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Post from "./components/Post.js";
-import { posts } from "./data/post.js";
+import { posts } from "./data/posts.js";
 
 function App() {
   return (
