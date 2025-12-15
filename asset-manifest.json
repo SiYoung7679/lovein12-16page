@@ -1,15 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.69c4b5e4.js",
-    "static/js/453.19a31bd5.chunk.js": "/static/js/453.19a31bd5.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.69c4b5e4.js.map": "/static/js/main.69c4b5e4.js.map",
-    "453.19a31bd5.chunk.js.map": "/static/js/453.19a31bd5.chunk.js.map"
+    "main.css": "/lovein12-16page/static/css/main.441e5cb0.css",
+    "main.js": "/lovein12-16page/static/js/main.c19d87fb.js",
+    "static/js/453.19a31bd5.chunk.js": "/lovein12-16page/static/js/453.19a31bd5.chunk.js",
+    "static/media/army.jpg": "/lovein12-16page/static/media/army.3332d0ef764002fb27ae.jpg",
+    "static/media/24h.jpg": "/lovein12-16page/static/media/24h.238ccc2e395725445fda.jpg",
+    "static/media/army2.jpg": "/lovein12-16page/static/media/army2.256450d7dec24a7dd0ab.jpg",
+    "static/media/ikea.jpg": "/lovein12-16page/static/media/ikea.c3759d7b8db902f965a2.jpg",
+    "static/media/dopamin.jpg": "/lovein12-16page/static/media/dopamin.35d078f41c0584119ba4.jpg",
+    "static/media/huski.jpg": "/lovein12-16page/static/media/huski.4889fbac89d857cfd302.jpg",
+    "static/media/catgirl.jpg": "/lovein12-16page/static/media/catgirl.0c05f7a991ecdd14c2ef.jpg",
+    "static/media/dog.jpg": "/lovein12-16page/static/media/dog.521754c4df8b2bc60a3d.jpg",
+    "static/media/cgv.jpg": "/lovein12-16page/static/media/cgv.3757043bfa19856f678c.jpg",
+    "static/media/hehe.jpg": "/lovein12-16page/static/media/hehe.66846961089dcd66996a.jpg",
+    "static/media/gen.jpg": "/lovein12-16page/static/media/gen.589244dcaa92970d85f1.jpg",
+    "static/media/cute.jpg": "/lovein12-16page/static/media/cute.4619140ece1a2f180cac.jpg",
+    "static/media/dog2.jpg": "/lovein12-16page/static/media/dog2.adac9a05939b06a3d3cc.jpg",
+    "static/media/yami.jpg": "/lovein12-16page/static/media/yami.9a7ccb141c84c7cc70d4.jpg",
+    "static/media/hihi.jpg": "/lovein12-16page/static/media/hihi.73c935f77eeb63f07c02.jpg",
+    "index.html": "/lovein12-16page/index.html",
+    "main.441e5cb0.css.map": "/lovein12-16page/static/css/main.441e5cb0.css.map",
+    "main.c19d87fb.js.map": "/lovein12-16page/static/js/main.c19d87fb.js.map",
+    "453.19a31bd5.chunk.js.map": "/lovein12-16page/static/js/453.19a31bd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.69c4b5e4.js"
+    "static/css/main.441e5cb0.css",
+    "static/js/main.c19d87fb.js"
   ]
 }
